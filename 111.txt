@@ -1,1 +1,1 @@
-是粉丝的粉丝  11 合并commit1 {{合并commit3}}  git cherry-pick1
+是粉丝的粉丝  11 合并commit1 {{合并commit3}}  git cherry-pick1 {{}}
