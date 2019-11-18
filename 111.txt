@@ -1,4 +1,4 @@
-
+﻿
 �Ƿ�˿�ķ�˿  11 �ϲ�commit1 {{�ϲ�commit3}}  git cherry-pick1 {{pick3}}   pick_1  pick__1    {{pick__2}}    �ϲ����comiit1 �ϲ����comiit2   �ϲ����comiit3 �ϲ����comiit4    77  �Ͱͱ�  ����  gg {55}
 2222222
 333333
@@ -8,3 +8,4 @@
 
 8888
 
+多个commit
